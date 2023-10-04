@@ -33,7 +33,7 @@ Eu fiz alguns cursos e tenho visto bastante coisas variadas tentando descobrir m
 |Nuvem AWS|Digital Innovation One|[Em curso]()|AWS Cloud|
 |Formação de Desenvolvedor Java|Digital Innovation One|[Em curso]()|Java|
 |Discover|RocketSeat|[Certificado](https://drive.google.com/file/d/1qP1kxDPeCv-Ttlwcv_J7-oIG8WND0eDB/view?usp=sharing)|HTML and CSS3|
-|Introdução para Ciência da Computação|Coursera|Finalizado*|Python|
+|Introdução para Ciência da Computação|Coursera|[Certificado](https://coursera.org/share/b852024b67acb266789b459c9c4901ca)|Python|
 
 > Nota: O curso com "Finalizado" indica que foi terminado mas, pelo certificado ser pago, não foi comprado.
 
