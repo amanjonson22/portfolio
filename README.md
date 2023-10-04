@@ -26,9 +26,8 @@ I have done a few courses and have been swimming around a lot of topics trying t
 |Potência Tech iFood - Programming from zero|Digital Inovation One|[On going]()|Git and GitHub; Agile Methods;|
 |AWS Cloud|Digital Innovation One|[On going]()|AWS Cloud|
 |Discover|RocketSeat|[Certificate](https://drive.google.com/file/d/1qP1kxDPeCv-Ttlwcv_J7-oIG8WND0eDB/view?usp=sharing)|HTML and CSS3|
-|Introduction to Computer Science|Coursera|Finished*|Python|
+|Introduction to Computer Science|Coursera|[Certificate](https://coursera.org/share/b852024b67acb266789b459c9c4901ca)|Python|
 
-> Note: The course with "Finished" indicates it was done, but because of the paid certificate, it wasn't bought.
 
 ## My Studies
 
